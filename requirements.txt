@@ -1,0 +1,7 @@
+django
+django-bootstrap3
+misaka
+dj_database_url
+whitenoise
+django-braces
+gunicorn
